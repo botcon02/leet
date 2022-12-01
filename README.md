@@ -1,2 +1,3 @@
 # leet
-Some snippets of algorithms done for leetcode in various language
+Some snippets of algorithms done for leetcode and other platforms
+in various language
