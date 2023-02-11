@@ -1,5 +1,5 @@
 # algo
-Some problems/algorithms done within coursework or online platforms
+Certain problems/algorithms done within coursework or online platforms
 
 Coursework practical assignments:
 1) MinimumInversions.java
