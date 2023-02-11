@@ -1,6 +1,9 @@
-# leet
-Some problems/algorithm done for leetcode and other platforms
-in various language (primarily Java and Python3)
+# algo
+Some problems/algorithms done within coursework or online platforms
+
+Coursework practical assignments:
+1) MinimumInversions.java
+
 
 
 

@@ -1,8 +1,8 @@
 // https://nus.kattis.com/problems/brevoptimering
 
-import java.util.Scanner;
-import java.util.LinkedList;
 import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Scanner;
 
 /*
 Idea 1: Dynamic Programming: Let U[k] be the output of person k,
